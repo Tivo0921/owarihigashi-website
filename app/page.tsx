@@ -30,7 +30,7 @@ export default function HomePage() {
           <h2 className="text-3xl font-bold text-foreground mb-8">直近の行事予定</h2>
           <div className="relative overflow-hidden" style={{ paddingBottom: "75%", height: 0 }}>
             <iframe
-              src="https://calendar.google.com/calendar/embed?src=shun020921%40icloud.com&ctz=Asia%2FTokyo"
+              src="brbr（GoogleカレンダーのURL入れる）"
               style={{
                 border: 0,
                 position: "absolute",
