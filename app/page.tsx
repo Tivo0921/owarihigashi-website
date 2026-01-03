@@ -29,7 +29,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <h2 className="text-3xl font-bold text-foreground mb-8">直近の行事予定</h2>
           <div className="relative overflow-hidden" style={{ paddingBottom: "75%", height: 0 }}>
-            <iframe
+            {/*<iframe
               src="brbr（GoogleカレンダーのURL入れる）"
               style={{
                 border: 0,
@@ -41,7 +41,7 @@ export default function HomePage() {
               }}
               frameBorder="0"
               scrolling="no"
-            ></iframe>
+            ></iframe>*/}
           </div>
           <ul className="mt-8 space-y-4">
             <li className="text-muted-foreground">イベント名: サンプルイベント1 / 参加要件: なし / 料金: 無料</li>
